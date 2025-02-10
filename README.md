@@ -1,7 +1,7 @@
 # Medical Insurance Cost Analysis
 
 ### Project Objective
-Toperform exploratory data analysis and determine the features that effects the medical insurance cost insurance.
+To perform exploratory data analysis and determine the features that effects the medical insurance cost insurance.
 
 ### Dataset
 https://www.kaggle.com/datasets/mirichoi0218/insurance
